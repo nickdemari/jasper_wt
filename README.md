@@ -11,4 +11,4 @@ Standard build for flutter. Should work out of the box.
 I assumed we wouldnt filter off the users ID only
 
 **Video of working application**
-Emailed with github link
+https://drive.google.com/file/d/1S4CG74ysdt6iPLKeqCyNiAKRmJTt3Iwb/view?usp=sharing
