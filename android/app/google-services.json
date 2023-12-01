@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "312368800840",
+    "project_id": "jasper-wt",
+    "storage_bucket": "jasper-wt.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:312368800840:android:fd49d1b9061cf4a93aa47d",
+        "android_client_info": {
+          "package_name": "com.example.jasper_wt"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAAmgVX11Q7uC8WCRLpx_KUUFpwzVUTjPE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
